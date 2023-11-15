@@ -20,5 +20,5 @@ jobs:
         run: |
           ls -la 
           ipfs swarm peers
-          ipfs add fichierPL.war
+          ipfs add fichierPL2.war
         shell: alpine.sh --root {0}
